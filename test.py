@@ -1,3 +1,2 @@
-name = "hello"
+name = "hello, felix is gay. what do we do"
 print(name)
-print(name*2)
