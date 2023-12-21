@@ -26,3 +26,4 @@ Design Preferences:
 
 Timeline:
 The client is looking to launch the website within the next eight weeks to coincide with a special promotion for the upcoming new year celebrations.
+
