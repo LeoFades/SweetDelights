@@ -1,0 +1,18 @@
+.Introduction{
+    margin: 50px 50px 0 50px;
+    background-color: #fede8e;
+    text-align: center;
+}
+.About{
+    background-color: #ffa86e;
+    text-align: center;
+    margin-top: 100px;
+}
+.Ending{
+    background-color: #8f4522;
+    text-align: center;
+    margin-top: 50px;
+}
+.all{
+    margin-right: 50px;
+}
