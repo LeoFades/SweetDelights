@@ -25,5 +25,5 @@ Design Preferences:
 3. Branding: Ensure consistency with the Sweet Delights logo and existing branding.
 
 Timeline:
-The client is looking to launch the website within the next eight weeks to coincide with a special promotion for the upcoming new year celebrations.
+Feb.
 

@@ -1,0 +1,91 @@
+/*Barlow Import*/
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+/* Global Settings */
+:root {
+    --dark-gray: #565656;
+    --light-gray: #d7cec7;
+    --wine-red: #76323F;
+    --tan-soil: #c09f80;
+}
+
+* {
+    font-family: "Barlow", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Disable Scrollbar*/
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+
+
+/*Navigation Bar*/
+.navBarHome li,
+img,
+a,
+p,
+button {
+
+    font-weight: 500;
+    font-size: 16px;
+
+    text-decoration: none;
+
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 15px 5%;
+
+}
+
+.logo {
+    cursor: pointer;
+    margin-right: auto;
+    max-block-size: 5vh;
+}
+
+.nav_links {
+    list-style: none;
+    margin-right: 20px;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+    color: var(--dark-gray);
+}
+
+.nav_links li a:hover {
+    color: var(--light-gray);
+}
+
+
+button {
+    padding: 9px 25px;
+    background-color: rgba(206, 58, 70, 1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: rgba(206, 58, 70, 0.8);
+}
