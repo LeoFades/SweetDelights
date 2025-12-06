@@ -1,7 +1,5 @@
 ## SweetDelights Bakery Website
 
-Note that this is a practice because we have nothing better to do. Also this practice is given by ai since i asked it to become our client.
-
 Sweet Delights is a small family-run bakery looking to establish a stronger online presence and streamline how customers place orders. The client wants a website that showcases their baked goods in an attractive way and makes it easier for people to browse what they offer. They also mentioned that they have many different items throughout the year and would like a simple way to show seasonal or limited-time products.
 
 The bakery’s current ordering process happens mostly through social media messages and walk-ins, which they find difficult to manage as order volume grows. They want a system that gathers all orders into one place and makes it easier for staff to handle them. The client hinted that different employees may need access to different parts of the system, but they aren’t entirely sure how that should work yet. They also expressed interest in letting customers customize certain products, such as cakes, though the exact customization options were not fully defined.
@@ -13,3 +11,7 @@ Although the client did not provide specifics regarding payments, delivery optio
 Finally, Sweet Delights wants the website to reflect their warm, homey brand identity and to include basic business information such as their story, contact details, opening hours, and physical location. They are also active on social media and would like the website to connect with their existing social platforms. Beyond these requests, the client emphasized that they rely on your expertise to propose features, improvements, and a structure that can support future growth.
 
 Listed out Requirements : https://docs.google.com/document/d/1l5RtDMOsVQj3gBPeIgkRW94fWE9JMLFzZgj9ltMY8uc/edit?usp=sharing
+
+
+### <u>Developer's Note</u>
+This is a practice because we have nothing better to do and we hate ourselves. Also this practice is given by ai since i asked it to become our client.
