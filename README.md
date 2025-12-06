@@ -1,3 +1,5 @@
+## SweetDelights Bakery Website
+
 Note that this is a practice because we have nothing better to do. Also this practice is given by ai since i asked it to become our client.
 
 Sweet Delights is a small family-run bakery looking to establish a stronger online presence and streamline how customers place orders. The client wants a website that showcases their baked goods in an attractive way and makes it easier for people to browse what they offer. They also mentioned that they have many different items throughout the year and would like a simple way to show seasonal or limited-time products.
