@@ -24,6 +24,4 @@ Design Preferences:
 2. Imagery: Feature high-quality images of bakery items prominently throughout the website.
 3. Branding: Ensure consistency with the Sweet Delights logo and existing branding.
 
-Timeline:
-Feb.
 
