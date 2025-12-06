@@ -1,27 +1,13 @@
-# SweetDelights
-Online Bakery Website - Practice
+Note that this is a practice because we have nothing better to do. Also this practice is given by ai since i asked it to become our client.
 
-Client: Sweet Delights Bakery
-Business Overview:
-Sweet Delights is a family-owned bakery known for its delectable pastries, cakes, and artisan bread. The client wants to expand their business by establishing an online presence through a custom-built website.
+Sweet Delights is a small family-run bakery looking to establish a stronger online presence and streamline how customers place orders. The client wants a website that showcases their baked goods in an attractive way and makes it easier for people to browse what they offer. They also mentioned that they have many different items throughout the year and would like a simple way to show seasonal or limited-time products.
 
-Client's Goals:
-1. Custom Website: Develop a professional, custom website tailored to Sweet Delights' unique brand and requirements.
-2. Product Catalog: Create a comprehensive product catalog with high-quality images, descriptions, and prices.
-3. Ordering System: Implement a secure and user-friendly online ordering system that allows customers to select products, customize orders, and place them for delivery or pickup.
-4. Contact Information: Include contact details, business hours, and the bakery's physical address on the website.
-5. Responsive Design: Ensure the website is mobile-friendly and accessible on various devices.
-6. Social Media Integration: Incorporate links to Sweet Delights' social media profiles to encourage customer engagement and sharing.
+The bakery’s current ordering process happens mostly through social media messages and walk-ins, which they find difficult to manage as order volume grows. They want a system that gathers all orders into one place and makes it easier for staff to handle them. The client hinted that different employees may need access to different parts of the system, but they aren’t entirely sure how that should work yet. They also expressed interest in letting customers customize certain products, such as cakes, though the exact customization options were not fully defined.
 
-Technical Requirements:
-1. Frontend Development: Build an intuitive and visually appealing user interface for customers to browse and order bakery products.
-2. Backend Development: Develop a robust backend system to manage product listings, handle customer orders, and track inventory.
-3. Security: Implement security measures to protect customer information and ensure secure online transactions.
-4. Scalability: Design the website with scalability in mind to accommodate future growth in products and customer traffic.
+Sweet Delights would like customers to have a smooth experience when ordering. They aren’t certain whether customers should create accounts or simply checkout as guests, but they want the process to be convenient and mobile-friendly. They also expressed interest in allowing customers to receive updates about their orders, though they didn’t specify whether this should be through email, SMS, or something else.
 
-Design Preferences:
-1. Color Scheme: Use a warm and inviting color scheme that aligns with the bakery's brand.
-2. Imagery: Feature high-quality images of bakery items prominently throughout the website.
-3. Branding: Ensure consistency with the Sweet Delights logo and existing branding.
+Although the client did not provide specifics regarding payments, delivery options, or inventory control, they mentioned concerns about items selling out or not being available on certain days. They also asked whether the system could help prevent customers from ordering more items than the bakery can produce. The bakery occasionally runs promotions and seasonal discounts and would like an easy way to manage these.
 
+Finally, Sweet Delights wants the website to reflect their warm, homey brand identity and to include basic business information such as their story, contact details, opening hours, and physical location. They are also active on social media and would like the website to connect with their existing social platforms. Beyond these requests, the client emphasized that they rely on your expertise to propose features, improvements, and a structure that can support future growth.
 
+Listed out Requirements : https://docs.google.com/document/d/1l5RtDMOsVQj3gBPeIgkRW94fWE9JMLFzZgj9ltMY8uc/edit?usp=sharing
