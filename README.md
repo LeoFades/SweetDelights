@@ -16,3 +16,5 @@ Listed out Requirements : https://docs.google.com/document/d/1l5RtDMOsVQj3gBPeIg
 ### <u>Developer's Note</u>
 This is a practice because we have nothing better to do and we hate ourselves. Also this practice is given by ai since i asked it to become our client.
 We also try to use no ai to help with coding, going back to the old documentation stackoverflow era, err see how far we can go la.
+
+@LeoFades what libraries are we using and wtf are we doing here
