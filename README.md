@@ -13,6 +13,79 @@ Finally, Sweet Delights wants the website to reflect their warm, homey brand ide
 Listed out Requirements : https://docs.google.com/document/d/1l5RtDMOsVQj3gBPeIgkRW94fWE9JMLFzZgj9ltMY8uc/edit?usp=sharing
 
 
+# Instructions for setting up the system 
+
+## PREREQUISITES
+
+- PHP 12.0 or higher
+
+- Composer installed
+
+- Node.js and npm installed
+
+- Database server (MariaDB)
+
+## INSTALLATION STEPS
+### Install Laravel
+Run the following command to install Laravel in your specified filepath:
+```
+composer global require laravel/installer
+```
+
+### Run Database Migrations
+Create the necessary database tables:
+```
+php artisan migrate
+```
+
+If you need to refresh your database and run seeders (**DO NOT RUN IN PRODUCTION**):
+```
+php artisan migrate:fresh --seed
+```
+
+### Install JavaScript Dependencies
+Install frontend dependencies:
+```
+composer install
+npm install
+```
+
+### Build Frontend Assets
+Compile your CSS and JavaScript assets:
+```
+npm run build
+```
+
+ Or for continuous building during development:
+```
+npm run dev
+```
+
+### Start the Development Server
+Launch the application:
+```
+php artisan serve
+```
+Your application should now be running at http://localhost:8000.
+
+## ADDITIONAL NOTES
+
+Configure your database connection in the .env file before running migrations
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+For production, change the env file from development to production
+```
+APP_ENV=production
+```   
+
+
 ### <u>Developer's Note</u>
 This is a practice because we have nothing better to do and we hate ourselves. Also this practice is given by ai since i asked it to become our client.
 We also try to use no ai to help with coding, going back to the old documentation stackoverflow era, err see how far we can go la.
