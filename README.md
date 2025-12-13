@@ -17,7 +17,7 @@ Listed out Requirements : https://docs.google.com/document/d/1l5RtDMOsVQj3gBPeIg
 
 ## PREREQUISITES
 
-- PHP 12.0 or higher
+- PHP 8.0 or higher
 
 - Composer installed
 
@@ -41,6 +41,12 @@ php artisan migrate
 If you need to refresh your database and run seeders (**DO NOT RUN IN PRODUCTION**):
 ```
 php artisan migrate:fresh --seed
+```
+
+### Generate Encryption Key
+Run the following command to generate an encryption key for bcrypt in env:
+```
+php artisan key:generate
 ```
 
 ### Install JavaScript Dependencies
