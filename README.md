@@ -81,7 +81,7 @@ Configure your database connection in the .env file before running migrations
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=laravel
+DB_DATABASE=sweetdelights
 DB_USERNAME=root
 DB_PASSWORD=
 ```
